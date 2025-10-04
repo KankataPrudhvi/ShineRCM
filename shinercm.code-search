@@ -1,0 +1,159 @@
+# Query: lovabl
+# ContextLines: 1
+
+44 results - 5 files
+
+index.html:
+  12      <meta property="og:type" content="website" />
+  13:     <meta property="og:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+  14  
+  15      <meta name="twitter:card" content="summary_large_image" />
+  16:     <meta name="twitter:site" content="@lovable_dev" />
+  17:     <meta name="twitter:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+  18    </head>
+
+package-lock.json:
+    72          "globals": "^15.15.0",
+    73:         "lovable-tagger": "^1.1.10",
+    74          "postcss": "^8.5.6",
+
+  4702      },
+  4703:     "node_modules/lovable-tagger": {
+  4704        "version": "1.1.10",
+  4705:       "resolved": "https://registry.npmjs.org/lovable-tagger/-/lovable-tagger-1.1.10.tgz",
+  4706        "integrity": "sha512-LbYaxi6vgrqg7Sq93/cRbIM78EP+X+GUU7spx804yqB2bxfiOej8UvcZHeE4WqMjAFI2dHGhXpy8r6SnvmrzGg==",
+
+  4720      },
+  4721:     "node_modules/lovable-tagger/node_modules/@esbuild/aix-ppc64": {
+  4722        "version": "0.25.0",
+
+  4737      },
+  4738:     "node_modules/lovable-tagger/node_modules/@esbuild/android-arm": {
+  4739        "version": "0.25.0",
+
+  4754      },
+  4755:     "node_modules/lovable-tagger/node_modules/@esbuild/android-arm64": {
+  4756        "version": "0.25.0",
+
+  4771      },
+  4772:     "node_modules/lovable-tagger/node_modules/@esbuild/android-x64": {
+  4773        "version": "0.25.0",
+
+  4788      },
+  4789:     "node_modules/lovable-tagger/node_modules/@esbuild/darwin-arm64": {
+  4790        "version": "0.25.0",
+
+  4805      },
+  4806:     "node_modules/lovable-tagger/node_modules/@esbuild/darwin-x64": {
+  4807        "version": "0.25.0",
+
+  4822      },
+  4823:     "node_modules/lovable-tagger/node_modules/@esbuild/freebsd-arm64": {
+  4824        "version": "0.25.0",
+
+  4839      },
+  4840:     "node_modules/lovable-tagger/node_modules/@esbuild/freebsd-x64": {
+  4841        "version": "0.25.0",
+
+  4856      },
+  4857:     "node_modules/lovable-tagger/node_modules/@esbuild/linux-arm": {
+  4858        "version": "0.25.0",
+
+  4873      },
+  4874:     "node_modules/lovable-tagger/node_modules/@esbuild/linux-arm64": {
+  4875        "version": "0.25.0",
+
+  4890      },
+  4891:     "node_modules/lovable-tagger/node_modules/@esbuild/linux-ia32": {
+  4892        "version": "0.25.0",
+
+  4907      },
+  4908:     "node_modules/lovable-tagger/node_modules/@esbuild/linux-loong64": {
+  4909        "version": "0.25.0",
+
+  4924      },
+  4925:     "node_modules/lovable-tagger/node_modules/@esbuild/linux-mips64el": {
+  4926        "version": "0.25.0",
+
+  4941      },
+  4942:     "node_modules/lovable-tagger/node_modules/@esbuild/linux-ppc64": {
+  4943        "version": "0.25.0",
+
+  4958      },
+  4959:     "node_modules/lovable-tagger/node_modules/@esbuild/linux-riscv64": {
+  4960        "version": "0.25.0",
+
+  4975      },
+  4976:     "node_modules/Shinercm -tagger/node_modules/@esbuild/linux-s390x": {
+  4977        "version": "0.25.0",
+
+  4992      },
+  4993:     "node_modules/Shinercm -tagger/node_modules/@esbuild/linux-x64": {
+  4994        "version": "0.25.0",
+
+  5009      },
+  5010:     "node_modules/Shinercm -tagger/node_modules/@esbuild/netbsd-x64": {
+  5011        "version": "0.25.0",
+
+  5026      },
+  5027:     "node_modules/Shinercm -tagger/node_modules/@esbuild/openbsd-x64": {
+  5028        "version": "0.25.0",
+
+  5043      },
+  5044:     "node_modules/Shinercm -tagger/node_modules/@esbuild/sunos-x64": {
+  5045        "version": "0.25.0",
+
+  5060      },
+  5061:     "node_modules/Shinercm -tagger/node_modules/@esbuild/win32-arm64": {
+  5062        "version": "0.25.0",
+
+  5077      },
+  5078:     "node_modules/Shinercm -tagger/node_modules/@esbuild/win32-ia32": {
+  5079        "version": "0.25.0",
+
+  5094      },
+  5095:     "node_modules/Shinercm -tagger/node_modules/@esbuild/win32-x64": {
+  5096        "version": "0.25.0",
+
+  5111      },
+  5112:     "node_modules/Shinercm -tagger/node_modules/esbuild": {
+  5113        "version": "0.25.0",
+
+package.json:
+  75      "globals": "^15.15.0",
+  76:     "Shinercm -tagger": "^1.1.10",
+  77      "postcss": "^8.5.6",
+
+README.md:
+   1: # Welcome to your Shinercm project
+   2  
+
+   4  
+   5: **URL**: https://Shinercm .dev/projects/553d265a-0938-46d6-9331-3b213bf98855
+   6  
+
+  10  
+  11: **Use Shinercm **
+  12  
+  13: Simply visit the [Shinercm  Project](https://Shinercm .dev/projects/553d265a-0938-46d6-9331-3b213bf98855) and start prompting.
+  14  
+  15: Changes made via Shinercm  will be committed automatically to this repo.
+  16  
+
+  18  
+  19: If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+  20  
+
+  64  
+  65: Simply open [Shinercm ](https://Shinercm .dev/projects/553d265a-0938-46d6-9331-3b213bf98855) and click on Share -> Publish.
+  66  
+  67: ## Can I connect a custom domain to my Shinercm  project?
+  68  
+
+  72  
+  73: Read more here: [Setting up a custom domain](https://docs.Shinercm .dev/features/custom-domain#custom-domain)
+
+vite.config.ts:
+  3  import path from "path";
+  4: import { componentTagger } from "Shinercm -tagger";
+  5  
