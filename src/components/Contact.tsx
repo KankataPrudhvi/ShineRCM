@@ -59,7 +59,11 @@ const Contact = () => {
   };
 
   return (
-    <section id="contact" className="py-20 px-4 bg-gradient-to-br from-background to-muted/20">
+    <section
+  id="contact"
+  className="py-20 px-4 bg-gradient-to-br from-primary/30 to-accent/30"
+>
+
       <div className="container mx-auto max-w-6xl">
         <div className="text-center mb-16 animate-fade-in">
           <h2 className="text-4xl md:text-5xl font-bold mb-4 text-foreground">Contact Us</h2>

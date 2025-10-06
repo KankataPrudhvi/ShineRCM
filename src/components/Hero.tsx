@@ -7,15 +7,22 @@ const Hero = () => {
   };
 
   return (
-    <section className="pt-32 pb-20 px-4 min-h-[80vh] flex items-center">
-      <div className="container mx-auto text-center max-w-4xl">
+    <section
+      className="pt-32 pb-20 px-4 min-h-[80vh] flex items-center bg-cover bg-center bg-no-repeat relative"
+      style={{
+        backgroundImage: "url('https://marketing.webassets.siemens-healthineers.com/c84e21efbc03a893/953e2e387eeb/v/a4a4995c7c0f/siemens-healthineers_AT_c-arm.jpg')",
+      }}
+    >
+      {/* Overlay for better text readability */}
+      <div className="absolute inset-0 bg-black/40"></div>
+
+      <div className="container mx-auto text-center max-w-4xl relative z-10">
         <div className="animate-fade-in">
           <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
-          Who we are ?
+            Who we are ?
           </h2>
-          <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-          
-ShinerCM is a personal development and coaching platform dedicated to helping individuals overcome fears, build confidence, and cultivate self-love. It empowers people through focused reflection, growth strategies, and transformative workshops.
+          <p className="text-xl md:text-2xl text-white/90 mb-8 max-w-2xl mx-auto">
+            ShinerCM is a personal development and coaching platform dedicated to helping individuals overcome fears, build confidence, and cultivate self-love. It empowers people through focused reflection, growth strategies, and transformative workshops.
           </p>
           <Button 
             size="lg" 
