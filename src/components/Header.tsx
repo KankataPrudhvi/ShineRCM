@@ -8,13 +8,13 @@ const Header = () => {
         <div className="flex items-center gap-3">
           <div className="w-14 h-14 rounded-full bg-gradient-to-br from-primary to-accent flex items-center justify-center shadow-md overflow-hidden">
             <img
-              src="/ShineRCM_logo.png" // replace with your logo path
-              alt="Shiner CM Logo"
+              src="/ShineRCM_logo.png" 
+              alt="Shine RCM Logo"
               className="w-10 h-10 object-contain"
             />
           </div>
           <div>
-            <h1 className="text-xl font-bold text-foreground">Shiner CM</h1>
+            <h1 className="text-xl font-bold text-foreground">Shine RCM</h1>
             <p className="text-xs text-muted-foreground">www.shinercm.com</p>
           </div>
         </div>
